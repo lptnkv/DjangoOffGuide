@@ -1,0 +1,13 @@
+li a {
+    color: black;
+    font-size: 30px;
+}
+
+body {
+    background: rgb(219, 219, 219);
+}
+
+.question-list {
+    display: flex;
+    justify-content: center;
+}
